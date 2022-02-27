@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardiaca</string>
+    <string name="integrantes">INTEGRANTES</string>
+    <string name="tu_frecuencia_cardiaca">Tu Frecuencia Cardiaca</string>
+    <string name="descubramos_tu_frecuencia_cardiaca_maxima">DESCUBRAMOS TU FRECUENCIA CARDIACA MAXIMA</string>
+    <string name="ingresa_tu_edad">Ingresa Tu edad</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="todo">TODO</string>
+</resources>
